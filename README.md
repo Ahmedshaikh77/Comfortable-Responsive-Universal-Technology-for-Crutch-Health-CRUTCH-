@@ -2,7 +2,7 @@
 
 **CRUTCH** is an intelligent assistive mobility system that transforms traditional crutches into adaptive, health-enhancing devices through the integration of embedded sensors, wireless communication, and an optimized mass-spring-damper mechanical system. Designed for user comfort, injury prevention, and real-time data monitoring, CRUTCH sets a new benchmark in rehabilitative technology.
 
----
+
 
 ## Features
 
