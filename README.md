@@ -166,3 +166,8 @@ We used a mathematical approach to model the mass-spring-damper system. The equa
 <img width="401" height="997" alt="Screenshot-2024-12-14-at-6 50 04 AM" src="https://github.com/user-attachments/assets/998e19bc-a472-4d31-8506-93ec73be98ae" />
 
 
+
+https://github.com/user-attachments/assets/ceaa0731-6ae9-4106-9095-c39b580f1def
+
+
+
