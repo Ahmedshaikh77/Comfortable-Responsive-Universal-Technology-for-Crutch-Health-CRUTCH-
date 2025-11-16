@@ -160,11 +160,3 @@ We used a mathematical approach to model the mass-spring-damper system. The equa
 - **Hardware Design:** 3D printing, FEA (Finite Element Analysis)
 
 ---
-
-## License
-
-This project is part of the Duke MEMS Capstone project series.
-
----
-
-*For more information and documentation, visit: [Duke MEMS Capstone - CRUTCH Project](https://sites.duke.edu/memscapstone/comfortable-responsive-universal-technology-for-crutch-health-crutch/)*
