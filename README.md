@@ -129,36 +129,23 @@ We used a mathematical approach to model the mass-spring-damper system. The equa
 - With optimized damping and propulsion, our design achieves smoother and more natural motion, highlighting the potential ergonomic benefits of our C.R.U.T.C.H system.
 
 ---
-
-## Meet the Team
-
-### Nohemi Sepulveda
-**Electrical Communication Integration:**
-- Arduino Nano to Load Cells Comms
-- ESP32 to Load Cells Comms
-- Motor System Configuration with XIAO Setup
-- Real-time data plotting and visualization for live CRUTCH experiment results
-
 ### Muhammad Ahmed Nazir Shaikh
-**Electrical Communication Integration:**
 - ESP32 to ESP32 Comms
 - ESP32 to Accelerometer Comms
 - CAD model development of CRUTCH
 - Real-time plotting of Accelerometer data for live CRUTCH experiment
-
-### Yongjae Lee
-**Structural & Mechanical Design and Analysis:**
 - Ideation and conceptualization for the CRUTCH project
 - Designed the installation method of spring, damper, and new additional parts
 - 3D modeling and printing of new additional parts of CRUTCH
 - Shape optimization of each part with FEA
-
-### Yong Hyun Chung
-**Theoretical and Computational Analysis:**
 - Conceived and coordinated Project C.R.U.T.C.H
 - Designed experiments to analyze ground reaction forces & crutch motion trajectory
 - Carried out measurements for the C.R.U.T.C.H system validation
 - Performed theoretical and computational analysis on mass-spring-damper system and ordinary differential equations
+- Arduino Nano to Load Cells Comms
+- ESP32 to Load Cells Comms
+- Motor System Configuration with XIAO Setup
+- Real-time data plotting and visualization for live CRUTCH experiment results
 
 ---
 
