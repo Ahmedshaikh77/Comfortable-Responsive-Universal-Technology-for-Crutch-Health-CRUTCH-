@@ -159,7 +159,7 @@ We used a mathematical approach to model the mass-spring-damper system. The equa
 - **Programming:** Arduino IDE, Python (matplotlib, serial)
 - **Hardware Design:** 3D printing, FEA (Finite Element Analysis)
 
-
+## Images
 ![IMG_6572-scaled-e1734538831558-1536x1536](https://github.com/user-attachments/assets/b7e089eb-321b-4cbf-8a11-7d43467a3301)
 
 
